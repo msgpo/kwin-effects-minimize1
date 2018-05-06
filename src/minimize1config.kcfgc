@@ -1,0 +1,4 @@
+File=minimize1.kcfg
+ClassName=Minimize1Config
+Singleton=true
+Mutators=true
